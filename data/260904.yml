@@ -7,7 +7,7 @@ about:
   head: 5de021f
   archived: false
   latestVersion: v3.1.14
-  collectedAt: 2026-09-04T19:33:50Z
+  collectedAt: 2026-09-04T20:58:38Z
 timeline:
   created: 2010-10-03
   lastCommit: 2026-08-19
@@ -85,6 +85,79 @@ total:
   openIssue: 2
   commit: 1483
 ---
+path: /home/runner/.x-repo/github.com/remy/nodemon
+collectedAt: 2026-09-04T20:58:40Z
+loc:
+  Json:
+    code: 10076
+    comments: 0
+    blanks: 0
+    files: 26
+  JavaScript:
+    code: 5538
+    comments: 650
+    blanks: 1018
+    files: 76
+  Css:
+    code: 136
+    comments: 1
+    blanks: 27
+    files: 1
+  Html:
+    code: 114
+    comments: 0
+    blanks: 14
+    files: 1
+  TypeScript:
+    code: 103
+    comments: 10
+    blanks: 11
+    files: 1
+  Svg:
+    code: 44
+    comments: 1
+    blanks: 0
+    files: 2
+  Dockerfile:
+    code: 8
+    comments: 17
+    blanks: 9
+    files: 1
+  CoffeeScript:
+    code: 4
+    comments: 1
+    blanks: 0
+    files: 2
+  LiveScript:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 2
+    comments: 1
+    blanks: 1
+    files: 1
+  Python:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 661
+    blanks: 346
+    files: 10
+  Text:
+    code: 0
+    comments: 128
+    blanks: 30
+    files: 9
+total:
+  code: 16127
+  comments: 1470
+  blanks: 1457
+  files: 132
 ---
 date: "2026-08-24"
 repo:
