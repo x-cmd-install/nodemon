@@ -5,15 +5,15 @@ about:
   head: 1595dac
   archived: false
   latestVersion: "v3.1.14"
-  collectedAt: 2026-09-07T05:09:10Z
+  collectedAt: 2026-09-07T19:15:37Z
 timeline:
   created: 2010-10-03
   lastCommit: 2026-09-06
   lastRelease: 2026-02-20
 popularity:
-  star: 26668
+  star: 26667
   watcher: 255
-  fork: 1740
+  fork: 1739
   release: 107
   contributor: 169
   pullRequest: 551
@@ -84,7 +84,7 @@ total:
   commit: 1484
 ---
 path: /home/runner/.x-repo/github.com/remy/nodemon
-collectedAt: 2026-09-07T05:09:11Z
+collectedAt: 2026-09-07T19:15:38Z
 loc:
   Json:
     code: 10076
@@ -257,7 +257,7 @@ checks:
       - 'Warn: 0 commits out of 4 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:09:12+00:00
+  collectedAt: 2026-09-07T19:15:39+00:00
   platform:
     darwin/arm64:
       name:  null
