@@ -5,7 +5,7 @@ about:
   head: 1595dac
   archived: false
   latestVersion: "v3.1.14"
-  collectedAt: 2026-09-08T02:24:17Z
+  collectedAt: 2026-09-08T04:51:22Z
 timeline:
   created: 2010-10-03
   lastCommit: 2026-09-06
@@ -84,7 +84,7 @@ total:
   commit: 1484
 ---
 path: /home/runner/.x-repo/github.com/remy/nodemon
-collectedAt: 2026-09-08T02:24:19Z
+collectedAt: 2026-09-08T04:51:23Z
 loc:
   Json:
     code: 10076
