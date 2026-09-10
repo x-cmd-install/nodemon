@@ -1,0 +1,66 @@
+- repo: nix_stable_24_11
+  srcname: nodemon
+  visiblename: nodemon
+  version: 3.1.7
+  origversion: null
+  status: outdated
+  summary: Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL)
+  maintainers:
+    - pyrox@pyrox.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: nodemon
+  visiblename: nodemon
+  version: 3.1.9
+  origversion: null
+  status: outdated
+  summary: Simple monitor script for use during development of a Node.js app
+  maintainers:
+    - pyrox@pyrox.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: nodemon
+  visiblename: nodemon
+  version: 3.1.11
+  origversion: null
+  status: outdated
+  summary: Simple monitor script for use during development of a Node.js app
+  maintainers:
+    - pyrox@pyrox.dev
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: nodemon
+  visiblename: nodemon
+  version: 3.1.14
+  origversion: null
+  status: newest
+  summary: Simple monitor script for use during development of a Node.js app
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: nodemon
+  visiblename: nodemon
+  version: 3.1.14
+  origversion: null
+  status: newest
+  summary: Simple monitor script for use during development of a Node.js app
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: openpkg_current
+  srcname: nodemon
+  visiblename: nodemon
+  version: 3.1.7
+  origversion: null
+  status: outdated
+  summary: Node Reloading Tool
+  licenses:
+    - MIT
+  categories:
+    - Language
