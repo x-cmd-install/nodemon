@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.1.14"
   latestRelease: "v3.1.14"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:12:48Z
+  collectedAt: 2026-09-10T17:19:49Z
 timeline:
   created: 2010-10-03
   lastCommit: 2026-09-08
@@ -88,7 +88,7 @@ total:
   commit: 1485
 ---
 path: /home/runner/.x-repo/github.com/remy/nodemon
-collectedAt: 2026-09-10T05:12:50Z
+collectedAt: 2026-09-10T17:19:51Z
 loc:
   Json:
     code: 10076
