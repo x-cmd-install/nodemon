@@ -4,7 +4,7 @@
 
 Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 
-[![x-cmd/install — nodemon Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nodemon.svg?lang=zh)](https://x-cmd.com/install/nodemon)
+[![x-cmd/install — nodemon Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nodemon.svg?lang=zh)](https://x-cmd.com/install/nodemon)
 
 ## 安装
 
@@ -57,12 +57,12 @@ x install nodemon
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 1 | 0 | 3 |
-| last60d | 2026-07-24 | 0 | 0 | 2 | 1 | 0 | 6 |
-| 90d | 2026-06-24 | 0 | 0 | 2 | 1 | 0 | 9 |
-| last180d | 2026-03-26 | 0 | 1 | 3 | 2 | 0 | 21 |
-| 360d | 2025-09-27 | 4 | 4 | 5 | 12 | 0 | 54 |
-| last720d | 2024-10-02 | 7 | 5 | 9 | 31 | 0 | 100 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 1 | 0 | 3 |
+| last60d | 2026-07-25 | 0 | 0 | 2 | 1 | 0 | 6 |
+| 90d | 2026-06-25 | 0 | 0 | 2 | 1 | 0 | 9 |
+| last180d | 2026-03-27 | 0 | 1 | 3 | 2 | 0 | 21 |
+| 360d | 2025-09-28 | 4 | 4 | 5 | 12 | 0 | 54 |
+| last720d | 2024-10-03 | 7 | 5 | 9 | 31 | 0 | 100 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ nodemon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:10:38Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:16:25Z._
