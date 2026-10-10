@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,655 · **Forks**: 1,738 · **Open issues**: 1,692 · **Contributors**: 168
+- **Stars**: 26,656 · **Forks**: 1,738 · **Open issues**: 1,693 · **Contributors**: 168
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 313 · **Open PRs**: 11 · **Closed issues**: 1690 · **Open issues**: 2 · **Commits**: 1486
+- **Releases**: 107 · **Merged PRs**: 313 · **Open PRs**: 11 · **Closed issues**: 1690 · **Open issues**: 3 · **Commits**: 1486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 0 | 1 | 1 | 0 | 1 |
-| last60d | 2026-08-10 | 0 | 0 | 2 | 1 | 0 | 4 |
-| 90d | 2026-07-11 | 0 | 0 | 2 | 1 | 0 | 7 |
-| last180d | 2026-04-12 | 0 | 1 | 2 | 2 | 0 | 19 |
-| 360d | 2025-10-14 | 4 | 4 | 5 | 12 | 0 | 54 |
-| last720d | 2024-10-19 | 7 | 4 | 8 | 27 | 0 | 96 |
+| 30d | 2026-09-10 | 0 | 0 | 1 | 1 | 1 | 1 |
+| last60d | 2026-08-11 | 0 | 0 | 2 | 1 | 1 | 4 |
+| 90d | 2026-07-12 | 0 | 0 | 2 | 1 | 1 | 7 |
+| last180d | 2026-04-13 | 0 | 1 | 2 | 2 | 1 | 19 |
+| 360d | 2025-10-15 | 4 | 4 | 5 | 12 | 1 | 54 |
+| last720d | 2024-10-20 | 7 | 4 | 8 | 27 | 1 | 96 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nodemon lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:22:59Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:07:45Z._
