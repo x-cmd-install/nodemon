@@ -26,7 +26,7 @@ Total: **16,028** lines of code across **105** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,652 · **Forks**: 1,739 · **Open issues**: 1,693 · **Contributors**: 168
+- **Stars**: 26,651 · **Forks**: 1,739 · **Open issues**: 1,693 · **Contributors**: 168
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 1 | 1 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 2 | 1 | 1 | 4 |
-| 90d | 2026-07-16 | 0 | 0 | 2 | 1 | 1 | 6 |
-| last180d | 2026-04-17 | 0 | 1 | 2 | 2 | 1 | 18 |
-| 360d | 2025-10-19 | 4 | 4 | 5 | 12 | 1 | 54 |
-| last720d | 2024-10-24 | 7 | 4 | 8 | 27 | 1 | 94 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last60d | 2026-08-16 | 0 | 0 | 2 | 1 | 1 | 4 |
+| 90d | 2026-07-17 | 0 | 0 | 2 | 1 | 1 | 6 |
+| last180d | 2026-04-18 | 0 | 1 | 2 | 2 | 1 | 18 |
+| 360d | 2025-10-20 | 4 | 4 | 5 | 12 | 1 | 54 |
+| last720d | 2024-10-25 | 7 | 4 | 8 | 27 | 1 | 94 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nodemon lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:07:55Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:03:07Z._
