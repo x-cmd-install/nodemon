@@ -14,14 +14,14 @@ x install nodemon
 
 ## Code insight
 
-Total: **16,040** lines of code across **105** files in the top 5 languages.
+Total: **16,037** lines of code across **105** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 10,076 | 0 | 0 | 26 |
 | JavaScript | 5,538 | 650 | 1,018 | 76 |
 | Css | 152 | 1 | 29 | 1 |
-| Html | 108 | 0 | 14 | 1 |
+| Html | 105 | 0 | 14 | 1 |
 | TypeScript | 103 | 10 | 11 | 1 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.1.14` (2026-02-20)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
-- **Stars**: 26,659 · **Forks**: 1,738 · **Open issues**: 1,694 · **Contributors**: 168
+- **Stars**: 26,661 · **Forks**: 1,738 · **Open issues**: 1,694 · **Contributors**: 168
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 313 · **Open PRs**: 11 · **Closed issues**: 1690 · **Open issues**: 4 · **Commits**: 1488
+- **Releases**: 107 · **Merged PRs**: 313 · **Open PRs**: 11 · **Closed issues**: 1691 · **Open issues**: 3 · **Commits**: 1489
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 2 | 2 |
-| last60d | 2026-09-03 | 0 | 0 | 1 | 1 | 2 | 3 |
-| 90d | 2026-08-04 | 0 | 0 | 2 | 1 | 2 | 6 |
-| last180d | 2026-05-06 | 0 | 0 | 2 | 2 | 2 | 16 |
-| 360d | 2025-11-07 | 4 | 4 | 5 | 9 | 2 | 53 |
-| last720d | 2024-11-12 | 7 | 4 | 7 | 27 | 2 | 94 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 1 | 1 | 3 |
+| last60d | 2026-09-04 | 0 | 0 | 1 | 2 | 1 | 4 |
+| 90d | 2026-08-05 | 0 | 0 | 2 | 2 | 1 | 7 |
+| last180d | 2026-05-07 | 0 | 0 | 2 | 3 | 1 | 17 |
+| 360d | 2025-11-08 | 4 | 4 | 5 | 9 | 1 | 54 |
+| last720d | 2024-11-13 | 7 | 4 | 7 | 28 | 1 | 95 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for nodemon lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:16:51Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:59:06Z._
