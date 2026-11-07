@@ -36,7 +36,7 @@
   visiblename: nodemon
   version: 3.1.14
   origversion: null
-  status: newest
+  status: unique
   summary: Simple monitor script for use during development of a Node.js app
   maintainers:
     - fallback-mnt-nix@repology
@@ -47,20 +47,9 @@
   visiblename: nodemon
   version: 3.1.14
   origversion: null
-  status: newest
+  status: unique
   summary: Simple monitor script for use during development of a Node.js app
   maintainers:
     - fallback-mnt-nix@repology
   licenses:
     - MIT
-- repo: openpkg_current
-  srcname: nodemon
-  visiblename: nodemon
-  version: 3.1.7
-  origversion: null
-  status: outdated
-  summary: Node Reloading Tool
-  licenses:
-    - MIT
-  categories:
-    - Language
